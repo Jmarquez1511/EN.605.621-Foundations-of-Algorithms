@@ -1,0 +1,35 @@
+@Book{algorithmdesign,
+  author    = {Kleinberg, Jon and Tardos, Éva},
+  publisher = {Addison Wesley},
+  title     = {Algorithm Design},
+  year      = {2005},
+  isbn      = {9780321295354},
+  pages     = {864},
+}
+
+@Book{clrs3,
+  author    = {Cormen, Thomas H. and Leiserson, Charles Eric and Rivest, Ronald L. and Stein, Clifford},
+  publisher = {The MIT Press},
+  title     = {Introduction to Algorithms},
+  year      = {2009},
+  isbn      = {9780262033848},
+}
+
+@Book{illuminated,
+  author    = {Roughgarden, Tim},
+  publisher = {Soundlikeyourself Publishing, LLC},
+  title     = {Algorithms Illuminated : Part 1 : The Basics},
+  isbn      = {9780999282908},
+  pages     = {218},
+  subtitle  = {The Basics},
+}
+
+@Book{Miller,
+  author    = {Miller, Bradley N. and Ranum, David L.},
+  publisher = {Franklin Beedle & Associates},
+  title     = {Problem Solving with Algorithms and Data Structures Using Python SECOND EDITION},
+  isbn      = {9781590282571},
+  pages     = {438},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}
