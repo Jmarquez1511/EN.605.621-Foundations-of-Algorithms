@@ -1,0 +1,5 @@
+x:10110
+y:000011
+s:100000100110110111
+
+s is an interweave of x and y, it took 176 comparisons to find the result.

@@ -1,0 +1,5 @@
+x:10110
+y:000011
+s:10001110
+
+s is not an interweave of x and y, it took 0 comparisons to find the result.
